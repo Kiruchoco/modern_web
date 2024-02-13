@@ -1,10 +1,10 @@
-package com.example.exercise;
+package com.example.cardatabase_gradle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExerciseApplicationTests {
+class CardatabaseGradleApplicationTests {
 
 	@Test
 	void contextLoads() {
